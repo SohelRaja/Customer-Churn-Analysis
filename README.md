@@ -3,7 +3,7 @@
 
 Implementation of Decision Tree Classifier, Esemble Learning, Association Rule Mining and Clustering models(Kmodes & Kprototypes) for Customer attrition analysis of bank to identify the cause and conditions of the churn.
 
-### Contributers: [Disha Sinha](https://github.com/disha2sinha), [Arghadip Chakraborty](https://github.com/arghac14), [Shankhadeep Giri](https://github.com/shankha2018), [Sohel Raja Molla](https://github.com/SohelRaja)
+### Contributers:[Arghadip Chakraborty](https://github.com/arghac14),[Sohel Raja Molla](https://github.com/SohelRaja), [Disha Sinha](https://github.com/disha2sinha), [Shankhadeep Giri](https://github.com/shankha2018). 
 
 ## Project Summary:
 Finding the best features of the dataset by comparing the rules obtained from Decision Tree Classifier, Clustering Models(Kmodes and Kprototypes) and Assocication Rule Mining(Apriori algorithm) and then implementing Voting Classifiers(Ensemble Learning) with other classifier models, taking the best features with other classifier models to see if there is a boost in accuracy of prediction or not.
