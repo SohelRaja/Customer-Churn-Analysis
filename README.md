@@ -1,3 +1,4 @@
+
 # Customer-Churn-Analysis
 
 Implementation of Decision Tree Classifier, Esemble Learning, Association Rule Mining and Clustering models(Kmodes & Kprototypes) for Customer attrition analysis of bank to identify the cause and conditions of the churn.
@@ -48,3 +49,8 @@ We implemeted Voting Classifier that combines several classifier models in order
 ![](https://github.com/arghac14/Customer-Churn-Analysis/blob/master/Snapshots/voting.JPG)
 
 ![](https://github.com/arghac14/Customer-Churn-Analysis/blob/master/Snapshots/accc.JPG)
+
+
+   
+
+
