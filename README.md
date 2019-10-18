@@ -31,6 +31,12 @@ We implemented Kmodes and Kprototype clustering to get the clusters and centroid
 We implemented apriori algorithm(association rule miining) to get the rules of features, depending on which we will find the best features of our dataset.
 [See the notebooks](https://github.com/arghac14/Customer-Churn-Analysis/tree/master/Association%20Rule%20Mining)
 
+##### Most important frqeuent items when Churn=0:
+![](https://github.com/arghac14/Customer-Churn-Analysis/blob/master/Snapshots/apriori1.JPG)
+
+##### Most important frqeuent items when Churn=1:
+![](https://github.com/arghac14/Customer-Churn-Analysis/blob/master/Snapshots/apriori2.JPG)
+
 ### Finding the best features:
 Comparing the results of Decisiton Tree classifier, Clustering and Association Rule mining, we get the following best features-
 **'tenure'**,**'InternetService'**,**'PhoneService'**.
