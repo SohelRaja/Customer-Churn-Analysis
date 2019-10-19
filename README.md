@@ -9,6 +9,7 @@ Implementation of Decision Tree Classifier, Esemble Learning, Association Rule M
 Finding the best features of the dataset by comparing the rules obtained from Decision Tree Classifier, Clustering Models(Kmodes and Kprototypes) and Assocication Rule Mining(Apriori algorithm) and then implementing Voting Classifiers(Ensemble Learning) with other classifier models, taking the best features with other classifier models to see if there is a boost in accuracy of prediction or not.
 
 ## Workflow:
+![](https://github.com/SohelRaja/Customer-Churn-Analysis/blob/master/Snapshots/workflow.jpg)
 
 ### Collecting Data:
 We used this telecom service customer churn dataset for this particular project- [WA_Fn-UseC_-Telco-Customer-Churn.csv](https://github.com/arghac14/Customer-Churn-Analysis/blob/master/Decision%20Tree/WA_Fn-UseC_-Telco-Customer-Churn.csv)
