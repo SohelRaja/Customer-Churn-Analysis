@@ -52,6 +52,12 @@ We implemented other classifiers like K-nearest Neighbors, Logistic Regression, 
 * [Random Forest](https://github.com/SohelRaja/Customer-Churn-Analysis/tree/master/Ensemble%20Learning/Other%20Classifiers/Random%20Forest)
 * [SVM](https://github.com/disha2sinha/Customer-Churn-Analysis/tree/master/Ensemble%20Learning/Other%20Classifiers/SVC)
 #### Accuracy report-
+With all features:
+
+![](https://github.com/disha2sinha/Customer-Churn-Analysis/blob/master/Snapshots/otherClassifiers1.png)
+
+With best features:
+
 ![](https://github.com/SohelRaja/Customer-Churn-Analysis/blob/master/Snapshots/other%20classifiers.JPG)
 
 ### Implementing Voting Classifier (Ensemble Leaning):
